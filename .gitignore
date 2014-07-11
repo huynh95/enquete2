@@ -1,0 +1,11 @@
+.metadata
+*.ini
+*.classpath
+*.project
+.settings
+*.class
+classes
+lib
+META-INF
+target
+WEB-INF
